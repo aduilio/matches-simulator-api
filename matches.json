@@ -1,5 +1,5 @@
 [{
-  "description": "World Cup 2022",
+  "description": "America Cup",
   "stadium": {
     "name": "Maracanã",
     "image": ""
@@ -13,5 +13,90 @@
     "name": "Argentina",
     "strength": 5,
     "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png" 
+  }
+},
+{
+  "description": "America Cup",
+  "stadium": {
+    "name": "Mané Garrincha",
+    "image": ""
+  },
+  "homeTeam": {
+    "name": "Brazil",
+    "strength": 5,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png" 
+  },
+  "awayTeam": {
+    "name": "Uruguay",
+    "strength": 4,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png" 
+  }
+},
+{
+  "description": "America Cup",
+  "stadium": {
+    "name": "Mineirão",
+    "image": ""
+  },
+  "homeTeam": {
+    "name": "Brazil",
+    "strength": 5,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png" 
+  },
+  "awayTeam": {
+    "name": "Chile",
+    "strength": 3,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png" 
+  },
+},
+{
+  "description": "America Cup",
+  "stadium": {
+    "name": "La Bombonera",
+    "image": ""
+  },
+  "homeTeam": {
+    "name": "Argentina",
+    "strength": 5,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png" 
+  },
+  "awayTeam": {
+    "name": "Uruguay",
+    "strength": 4,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png" 
+  }
+},
+{
+  "description": "World Cup",
+  "stadium": {
+    "name": "Cilindro de Avellaneda",
+    "image": ""
+  },
+  "homeTeam": {
+    "name": "Argentina",
+    "strength": 5,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png" 
+  },
+  "awayTeam": {
+    "name": "Chile",
+    "strength": 3,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png" 
+  }
+},
+{
+  "description": "America Cup",
+  "stadium": {
+    "name": "Estadio Nacional",
+    "image": ""
+  },
+  "homeTeam": {
+    "name": "Uruguay",
+    "strength": 4,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png" 
+  },
+  "awayTeam": {
+    "name": "Chile",
+    "strength": 3,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png" 
   }
 }]
