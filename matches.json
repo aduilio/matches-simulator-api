@@ -47,7 +47,7 @@
     "name": "Chile",
     "strength": 3,
     "image": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png" 
-  },
+  }
 },
 {
   "description": "America Cup",
@@ -67,7 +67,7 @@
   }
 },
 {
-  "description": "World Cup",
+  "description": "America Cup",
   "stadium": {
     "name": "Cilindro de Avellaneda",
     "image": ""
