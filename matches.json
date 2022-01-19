@@ -1,0 +1,17 @@
+[{
+  "description": "World Cup 2022",
+  "stadium": {
+    "name": "",
+    "image": ""
+  },
+  "homeTeam": {
+    "name": "Brazil",
+    "strength": 5,
+    "image": "" 
+  },
+  "awayTeam": {
+    "name": "Argentina",
+    "strength": 5,
+    "image": "" 
+  }
+}]
