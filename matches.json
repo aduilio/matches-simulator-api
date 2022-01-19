@@ -2,7 +2,7 @@
   "description": "America Cup",
   "stadium": {
     "name": "Maracanã",
-    "image": ""
+    "image": "https://www.estadios.net/wp-content/uploads/2018/10/estadio-do-maracana-vista-aerea.jpg"
   },
   "homeTeam": {
     "name": "Brazil",
@@ -19,7 +19,7 @@
   "description": "America Cup",
   "stadium": {
     "name": "Mané Garrincha",
-    "image": ""
+    "image": "https://conteudo.imguol.com.br/c/esporte/eb/2019/06/05/auditoria-no-mane-garrincha-revelou-possivel-superfaturamento-de-r-106-milhoes-1559706583561_v2_1x1.png"
   },
   "homeTeam": {
     "name": "Brazil",
@@ -36,7 +36,7 @@
   "description": "America Cup",
   "stadium": {
     "name": "Mineirão",
-    "image": ""
+    "image": "https://www.estadios.net/wp-content/uploads/2018/12/estadio-mineirao.jpg"
   },
   "homeTeam": {
     "name": "Brazil",
@@ -53,7 +53,7 @@
   "description": "America Cup",
   "stadium": {
     "name": "La Bombonera",
-    "image": ""
+    "image": "https://www.estadios.net/wp-content/uploads/2019/08/estadio-la-bombonera.jpg"
   },
   "homeTeam": {
     "name": "Argentina",
@@ -70,7 +70,7 @@
   "description": "America Cup",
   "stadium": {
     "name": "Cilindro de Avellaneda",
-    "image": ""
+    "image": "https://futebolatino.lance.com.br/wp-content/uploads/pensando-na-copa-america-racing-tem-amplo-projeto-de-reforma-para-o-el-cilindro-Futebol-Latino-15-03.jpg"
   },
   "homeTeam": {
     "name": "Argentina",
@@ -87,7 +87,7 @@
   "description": "America Cup",
   "stadium": {
     "name": "Estadio Nacional",
-    "image": ""
+    "image": "https://jbfilhoreporter.com.br/wp-content/uploads/2018/03/nacional.jpg"
   },
   "homeTeam": {
     "name": "Uruguay",
